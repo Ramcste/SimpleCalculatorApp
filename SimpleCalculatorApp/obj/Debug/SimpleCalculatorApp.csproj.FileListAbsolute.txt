@@ -1,0 +1,18 @@
+H:\Workspace\Visual Studio 2013\Projects\SimpleCalculatorApp\SimpleCalculatorApp\bin\Debug\SimpleCalculatorApp.exe.config
+H:\Workspace\Visual Studio 2013\Projects\SimpleCalculatorApp\SimpleCalculatorApp\bin\Debug\SimpleCalculatorApp.exe
+H:\Workspace\Visual Studio 2013\Projects\SimpleCalculatorApp\SimpleCalculatorApp\bin\Debug\SimpleCalculatorApp.pdb
+H:\Workspace\Visual Studio 2013\Projects\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.csprojResolveAssemblyReference.cache
+H:\Workspace\Visual Studio 2013\Projects\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.Form1.resources
+H:\Workspace\Visual Studio 2013\Projects\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.Properties.Resources.resources
+H:\Workspace\Visual Studio 2013\Projects\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.csproj.GenerateResource.Cache
+H:\Workspace\Visual Studio 2013\Projects\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.exe
+H:\Workspace\Visual Studio 2013\Projects\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\SimpleCalculatorApp\SimpleCalculatorApp\bin\Debug\SimpleCalculatorApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\SimpleCalculatorApp\SimpleCalculatorApp\bin\Debug\SimpleCalculatorApp.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\SimpleCalculatorApp\SimpleCalculatorApp\bin\Debug\SimpleCalculatorApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.Form1.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.csproj.GenerateResource.Cache
